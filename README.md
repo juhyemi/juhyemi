@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-### 👑 참가자　　　　　　　　　　　　　　  　　　　　　　　　　　  　　　　　
+-->　　　　　　　　　　　  　　　　　　　　　　　  　　　　　
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlawngp124)](https://solved.ac/rlawngp124)
