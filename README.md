@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->　　　　　　　　　　　  　　　　　　　　　　　  　　　　　
-
+[portpolio link here](https://www.notion.so/1c4f0df4d8b44491a18ad7c19b6751ec?pvs=4)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlawngp124)](https://solved.ac/rlawngp124)
