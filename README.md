@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyemi&show_icons=true&theme=radical) [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlawngp124)](https://solved.ac/rlawngp124)
-### 🛠️ Skills
+### 🎆 Skills
 
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"><img src="https://img.shields.io/badge/GitHub-FFCCCC?style=flat&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Google_Drive-CC6699?style=flat&logo=google-drive&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white">
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Apache_Tomcat-CC6699?style=flat&logo=Apache-Tomcat&logoColor=white"> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 
-
+### 🛠️ Tools
 
 <!--
 **juhyemi/juhyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
