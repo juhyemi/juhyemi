@@ -25,3 +25,6 @@
 
 ### 😉 About Me　　
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyemi&show_icons=true&theme=radical) [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlawngp124)](https://solved.ac/rlawngp124)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlawngp124@gmail.com)](mailto:rlawngp124@gmail.com)
+<a href="https://www.instagram.com/juhyemi_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
