@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyemi&show_icons=true&theme=radical) [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlawngp124)](https://solved.ac/rlawngp124)
 
 ### ⚡ Skills
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JSP-CC6699?style=flat&logo=Jsp&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-CC6666?style=flat&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=ORACLE&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-660033?style=flat&logo=MyBatis&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -25,4 +24,4 @@
 - 온라인 쇼핑몰 웹 개발 프로젝트 <sup> 2022.11 * 2022.12
 
 ### 😉 About Me　　
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyemi&show_icons=true&theme=radical) [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlawngp124)](https://solved.ac/rlawngp124)
