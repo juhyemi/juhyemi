@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyemi&show_icons=true&theme=radical)
 ### 🛠️ Skills
 
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"><img src="https://img.shields.io/badge/GitHub-FFCCCC?style=flat&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Google_Drive-CC6699?style=flat&logo=google-drive&logoColor=white">
