@@ -2,9 +2,7 @@
 
 ### 🛠️ Skills
 
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-FFCCCC?style=flat&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Drive-CC6699?style=flat&logo=google-drive&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"><img src="https://img.shields.io/badge/GitHub-FFCCCC?style=flat&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Google_Drive-CC6699?style=flat&logo=google-drive&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
