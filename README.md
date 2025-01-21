@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-FFCCCC?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF3333?style=flat&logo=Amazon&logoColor=white"> <img src="https://img.shields.io/badge/Apache_Tomcat-CC6699?style=flat&logo=Apache-Tomcat&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 
 ### 🌱 Education
+- 삼성 SW 청년 아카데미 SSAFY 13기 <sup>2025-01 ~
 - 디지털 하나로 금융서비스 개발 2기 최우수 수료 <sup>2024-01 * 2024-07 (975h)
 - MSA기반 FullStack 개발자 양성과정 수료 <sup>2022-09 * 2023-04 (1200h)
 
